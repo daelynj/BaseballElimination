@@ -1,0 +1,8 @@
+Reading input values from teams1.txt.
+[Turing]
+Flow Network for Turing
+2 0
+0:
+1:
+
+No teams have been eliminated.

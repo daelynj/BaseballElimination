@@ -1,0 +1,6 @@
+5
+New_York      83   5   0 3 1  1  0
+Philadelphia  77   8   3 0 0  0  0
+Atlanta       76   20  1 0 0  19 0
+Florida       78   20  1 0 19 0  0
+Washington    0    0   0 0 0  0  0

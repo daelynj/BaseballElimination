@@ -1,0 +1,3 @@
+Reading input values from teams60.txt.
+[Team0, Team1, Team2, Team3, Team4, Team5, Team6, Team7, Team8, Team9, Team10, Team11, Team12, Team13, Team14, Team15, Team16, Team17, Team18, Team19, Team20, Team21, Team22, Team23, Team24, Team25, Team26, Team27, Team28, Team29, Team30, Team31, Team32, Team33, Team34, Team35, Team36, Team37, Team38, Team39, Team40, Team41, Team42, Team43, Team44, Team45, Team46, Team47, Team48, Team49, Team50, Team51, Team52, Team53, Team54, Team55, Team56, Team57, Team58, Team59]
+Teams eliminated: [Team5, Team6, Team7, Team9, Team14, Team19, Team21, Team26, Team27, Team30, Team36, Team39, Team40, Team46, Team51, Team53, Team56, Team57]

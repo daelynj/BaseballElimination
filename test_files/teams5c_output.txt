@@ -1,0 +1,63 @@
+Reading input values from teams5c.txt.
+[New_York, Philadelphia, Atlanta, Florida, Washington]
+Flow Network for New_York
+12 22
+0:  0->6 0.0/0.0  0->5 0.0/0.0  0->4 19.0/19.0  0->3 0.0/0.0  0->2 0.0/0.0  0->1 0.0/0.0
+1:  1->8 0.0/Infinity  1->7 0.0/Infinity
+2:  2->9 0.0/Infinity  2->7 0.0/Infinity
+3:  3->10 0.0/Infinity  3->7 0.0/Infinity
+4:  4->9 10.0/Infinity  4->8 9.0/Infinity
+5:  5->10 0.0/Infinity  5->8 0.0/Infinity
+6:  6->10 0.0/Infinity  6->9 0.0/Infinity
+7:  7->11 0.0/11.0
+8:  8->11 9.0/12.0
+9:  9->11 10.0/10.0
+10:  10->11 0.0/88.0
+11:
+
+Flow Network for Philadelphia
+12 22
+0:  0->6 0.0/0.0  0->5 0.0/0.0  0->4 16.0/19.0  0->3 0.0/0.0  0->2 1.0/1.0  0->1 1.0/1.0
+1:  1->8 0.0/Infinity  1->7 1.0/Infinity
+2:  2->9 0.0/Infinity  2->7 1.0/Infinity
+3:  3->10 0.0/Infinity  3->7 0.0/Infinity
+4:  4->9 7.0/Infinity  4->8 9.0/Infinity
+5:  5->10 0.0/Infinity  5->8 0.0/Infinity
+6:  6->10 0.0/Infinity  6->9 0.0/Infinity
+7:  7->11 2.0/2.0
+8:  8->11 9.0/9.0
+9:  9->11 7.0/7.0
+10:  10->11 0.0/85.0
+11:
+
+Flow Network for Atlanta
+12 22
+0:  0->6 0.0/0.0  0->5 0.0/0.0  0->4 0.0/0.0  0->3 0.0/0.0  0->2 1.0/1.0  0->1 3.0/3.0
+1:  1->8 3.0/Infinity  1->7 0.0/Infinity
+2:  2->9 1.0/Infinity  2->7 0.0/Infinity
+3:  3->10 0.0/Infinity  3->7 0.0/Infinity
+4:  4->9 0.0/Infinity  4->8 0.0/Infinity
+5:  5->10 0.0/Infinity  5->8 0.0/Infinity
+6:  6->10 0.0/Infinity  6->9 0.0/Infinity
+7:  7->11 0.0/13.0
+8:  8->11 3.0/19.0
+9:  9->11 1.0/18.0
+10:  10->11 0.0/96.0
+11:
+
+Flow Network for Florida
+12 22
+0:  0->6 0.0/0.0  0->5 0.0/0.0  0->4 0.0/0.0  0->3 0.0/0.0  0->2 1.0/1.0  0->1 3.0/3.0
+1:  1->8 3.0/Infinity  1->7 0.0/Infinity
+2:  2->9 1.0/Infinity  2->7 0.0/Infinity
+3:  3->10 0.0/Infinity  3->7 0.0/Infinity
+4:  4->9 0.0/Infinity  4->8 0.0/Infinity
+5:  5->10 0.0/Infinity  5->8 0.0/Infinity
+6:  6->10 0.0/Infinity  6->9 0.0/Infinity
+7:  7->11 0.0/15.0
+8:  8->11 3.0/21.0
+9:  9->11 1.0/22.0
+10:  10->11 0.0/98.0
+11:
+
+Teams eliminated: [Philadelphia, Washington]

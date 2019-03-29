@@ -1,0 +1,3 @@
+Reading input values from teams29.txt.
+[Atlanta, Boston, Chicago, Cleveland, Dallas, Denver, Detroit, Golden_State, Houston, Indiana, LA_Clippers, LA_Lakers, Memphis, Miami, Milwaukee, Minnesota, New_Jersey, New_Orleans, New_York, Orlando, Philadelphia, Phoenix, Portand, Sacramento, San_Antonio, Seattle, Toronto, Utah, Washington]
+Teams eliminated: [Detroit, Golden_State, Houston, Indiana, LA_Clippers, LA_Lakers, Memphis, New_Jersey, New_Orleans, New_York, Orlando, Phoenix, Portand, San_Antonio, Toronto, Utah, Washington]

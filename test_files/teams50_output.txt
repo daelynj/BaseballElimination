@@ -1,0 +1,3 @@
+Reading input values from teams50.txt.
+[turkey, guineafowl, quail, grouse, ptarmigan, snowcock, partridge, pheasant, chicken, peacock, dove, goose, duck, swan, mallard, pintail, eider, penguin, loon, albatross, flamingo, stork, ibis, spoonbill, heronegret, booby, cormorant, vulture, falcon, condor, osprey, buzzard, kite, eagle, hawk, harrier, sparrow, rail, coot, crane, sandpiper, gull, tern, razorbill, parrot, cockatoo, macaw, cuckoo, roadrunner, owl]
+No teams have been eliminated.

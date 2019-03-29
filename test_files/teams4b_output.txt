@@ -1,0 +1,14 @@
+Reading input values from teams4b.txt.
+[Gryffindor, Hufflepuff, Ravenclaw, Slytherin]
+Flow Network for Gryffindor
+8 12
+0:  0->3 0.0/0.0  0->2 2.0/2.0  0->1 0.0/0.0
+1:  1->5 0.0/Infinity  1->4 0.0/Infinity
+2:  2->6 2.0/Infinity  2->4 0.0/Infinity
+3:  3->6 0.0/Infinity  3->5 0.0/Infinity
+4:  4->7 0.0/5.0
+5:  5->7 0.0/4.0
+6:  6->7 2.0/5.0
+7:
+
+Teams eliminated: [Hufflepuff, Ravenclaw, Slytherin]
